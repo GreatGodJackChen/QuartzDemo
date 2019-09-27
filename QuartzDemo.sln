@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzSampleApp", "QuartzSampleApp\QuartzSampleApp.csproj", "{CC5233AF-36C0-4DA6-9A67-59103EE8EC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5233AF-36C0-4DA6-9A67-59103EE8EC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5233AF-36C0-4DA6-9A67-59103EE8EC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5233AF-36C0-4DA6-9A67-59103EE8EC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5233AF-36C0-4DA6-9A67-59103EE8EC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7676B7-76AA-45AF-84D3-8D7A51A3F0EC}
+	EndGlobalSection
+EndGlobal
